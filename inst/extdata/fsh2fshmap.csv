@@ -1,0 +1,7 @@
+fshcommodity;fsh_reportgen
+c_FrshD;'FSH-Fresh and Diadromous'
+c_Dmrsl;'FSH-Demersal'
+c_Pelag;'FSH-Pelagic'
+c_Marn;'FSH-Other Marine'
+c_Crust;'FSH-Crustaceans'
+c_Mllsc;'FSH-Molluscs'

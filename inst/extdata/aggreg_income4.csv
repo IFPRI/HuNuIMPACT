@@ -1,0 +1,475 @@
+cty;reg
+AFG;"Low income"
+AGO;"LoM income"
+ALB;"UppM income"
+ARG;"UppM income"
+ARM;"UppM income"
+AUS;"High income"
+AUT;"High income"
+AZE;"UppM income"
+BDI;"Low income"
+BEN;"LoM income"
+BFA;"Low income"
+BGD;"LoM income"
+BGR;"High income"
+BLR;"UppM income"
+BLT;"UppM income"
+BLX;"High income"
+BLZ;"UppM income"
+BOL;"LoM income"
+BRA;"UppM income"
+BTN;"LoM income"
+BWA;"UppM income"
+CAF;"Low income"
+CAN;"High income"
+CHL;"High income"
+CHM;"UppM income"
+CHP;"High income"
+CIV;"LoM income"
+CMR;"LoM income"
+COD;"Low income"
+COG;"LoM income"
+COL;"UppM income"
+CRB;"LoM income"
+CRI;"UppM income"
+CUB;"UppM income"
+CYP;"High income"
+CZE;"High income"
+DEU;"High income"
+DJI;"LoM income"
+DNK;"High income"
+DOM;"UppM income"
+DZA;"UppM income"
+ECU;"UppM income"
+EGY;"LoM income"
+ERI;"Low income"
+ETH;"Low income"
+FJI;"UppM income"
+FNP;"High income"
+FRP;"High income"
+GAB;"UppM income"
+GEO;"UppM income"
+GHA;"LoM income"
+GIN;"LoM income"
+GMB;"Low income"
+GNB;"Low income"
+GNQ;"UppM income"
+GRC;"High income"
+GRL;"High income"
+GSA;"Low income"
+GTM;"UppM income"
+HND;"LoM income"
+HRV;"High income"
+HTI;"LoM income"
+HUN;"High income"
+IDN;"UppM income"
+IND;"LoM income"
+IRL;"High income"
+IRN;"UppM income"
+IRQ;"UppM income"
+ISL;"High income"
+ISR;"High income"
+ITP;"High income"
+JAM;"UppM income"
+JOR;"LoM income"
+JPN;"High income"
+KAZ;"UppM income"
+KEN;"LoM income"
+KGZ;"LoM income"
+KHM;"LoM income"
+KOR;"High income"
+LAO;"LoM income"
+LBN;"LoM income"
+LBR;"Low income"
+LBY;"UppM income"
+LKA;"LoM income"
+LSO;"LoM income"
+MDA;"UppM income"
+MDG;"Low income"
+MEX;"UppM income"
+MLI;"Low income"
+MMR;"LoM income"
+MNG;"UppM income"
+MOR;"LoM income"
+MOZ;"Low income"
+MRT;"LoM income"
+MWI;"Low income"
+MYS;"UppM income"
+NAM;"UppM income"
+NER;"Low income"
+NGA;"LoM income"
+NIC;"LoM income"
+NLD;"High income"
+NOR;"High income"
+NPL;"LoM income"
+NZL;"High income"
+OAO;"Low income"
+OBN;"LoM income"
+OIO;"LoM income"
+OPO;"LoM income"
+OSA;"LoM income"
+PAK;"LoM income"
+PAN;"High income"
+PER;"UppM income"
+PHL;"LoM income"
+PNG;"LoM income"
+POL;"High income"
+PRK;"Low income"
+PRT;"High income"
+PRY;"UppM income"
+PSE;"LoM income"
+RAP;"LoM income"
+ROU;"High income"
+RUS;"High income"
+RWA;"Low income"
+SAU;"High income"
+SDN;"Low income"
+SEN;"LoM income"
+SLB;"LoM income"
+SLE;"Low income"
+SLV;"UppM income"
+SOM;"Low income"
+SPP;"High income"
+SVK;"High income"
+SVN;"High income"
+SWE;"High income"
+SWZ;"LoM income"
+SYR;"Low income"
+TCD;"Low income"
+TGO;"Low income"
+THA;"UppM income"
+TJK;"LoM income"
+TKM;"UppM income"
+TLS;"LoM income"
+TUN;"LoM income"
+TUR;"UppM income"
+TZA;"LoM income"
+UGA;"Low income"
+UKP;"High income"
+UKR;"UppM income"
+URY;"High income"
+USA;"High income"
+UZB;"LoM income"
+VEN;"Low income"
+VNM;"LoM income"
+VUT;"LoM income"
+YEM;"Low income"
+ZAF;"UppM income"
+ZMB;"LoM income"
+ZWE;"LoM income"
+AFG;LIC
+AGO;LIC
+ALB;HIC
+ARG;HIC
+ARM;HIC
+AUS;HIC
+AUT;HIC
+AZE;HIC
+BDI;LIC
+BEN;LIC
+BFA;LIC
+BGD;LIC
+BGR;HIC
+BLR;HIC
+BLT;HIC
+BLX;HIC
+BLZ;HIC
+BOL;LIC
+BRA;HIC
+BTN;LIC
+BWA;HIC
+CAF;LIC
+CAN;HIC
+CHL;HIC
+CHM;HIC
+CHP;HIC
+CIV;LIC
+CMR;LIC
+COD;LIC
+COG;LIC
+COL;HIC
+CRB;LIC
+CRI;HIC
+CUB;HIC
+CYP;HIC
+CZE;HIC
+DEU;HIC
+DJI;LIC
+DNK;HIC
+DOM;HIC
+DZA;HIC
+ECU;HIC
+EGY;LIC
+ERI;LIC
+ETH;LIC
+FJI;HIC
+FNP;HIC
+FRP;HIC
+GAB;HIC
+GEO;HIC
+GHA;LIC
+GIN;LIC
+GMB;LIC
+GNB;LIC
+GNQ;HIC
+GRC;HIC
+GRL;HIC
+GSA;LIC
+GTM;HIC
+HND;LIC
+HRV;HIC
+HTI;LIC
+HUN;HIC
+IDN;HIC
+IND;LIC
+IRL;HIC
+IRN;HIC
+IRQ;HIC
+ISL;HIC
+ISR;HIC
+ITP;HIC
+JAM;HIC
+JOR;LIC
+JPN;HIC
+KAZ;HIC
+KEN;LIC
+KGZ;LIC
+KHM;LIC
+KOR;HIC
+LAO;LIC
+LBN;LIC
+LBR;LIC
+LBY;HIC
+LKA;LIC
+LSO;LIC
+MDA;HIC
+MDG;LIC
+MEX;HIC
+MLI;LIC
+MMR;LIC
+MNG;HIC
+MOR;LIC
+MOZ;LIC
+MRT;LIC
+MWI;LIC
+MYS;HIC
+NAM;HIC
+NER;LIC
+NGA;LIC
+NIC;LIC
+NLD;HIC
+NOR;HIC
+NPL;LIC
+NZL;HIC
+OAO;LIC
+OBN;LIC
+OIO;LIC
+OPO;LIC
+OSA;LIC
+PAK;LIC
+PAN;HIC
+PER;HIC
+PHL;LIC
+PNG;LIC
+POL;HIC
+PRK;LIC
+PRT;HIC
+PRY;HIC
+PSE;LIC
+RAP;LIC
+ROU;HIC
+RUS;HIC
+RWA;LIC
+SAU;HIC
+SDN;LIC
+SEN;LIC
+SLB;LIC
+SLE;LIC
+SLV;HIC
+SOM;LIC
+SPP;HIC
+SVK;HIC
+SVN;HIC
+SWE;HIC
+SWZ;LIC
+SYR;LIC
+TCD;LIC
+TGO;LIC
+THA;HIC
+TJK;LIC
+TKM;HIC
+TLS;LIC
+TUN;LIC
+TUR;HIC
+TZA;LIC
+UGA;LIC
+UKP;HIC
+UKR;HIC
+URY;HIC
+USA;HIC
+UZB;LIC
+VEN;LIC
+VNM;LIC
+VUT;LIC
+YEM;LIC
+ZAF;HIC
+ZMB;LIC
+ZWE;LIC
+AFG;WLD
+AGO;WLD
+ALB;WLD
+ARG;WLD
+ARM;WLD
+AUS;WLD
+AUT;WLD
+AZE;WLD
+BDI;WLD
+BEN;WLD
+BFA;WLD
+BGD;WLD
+BGR;WLD
+BLR;WLD
+BLT;WLD
+BLX;WLD
+BLZ;WLD
+BOL;WLD
+BRA;WLD
+BTN;WLD
+BWA;WLD
+CAF;WLD
+CAN;WLD
+CHL;WLD
+CHM;WLD
+CHP;WLD
+CIV;WLD
+CMR;WLD
+COD;WLD
+COG;WLD
+COL;WLD
+CRB;WLD
+CRI;WLD
+CUB;WLD
+CYP;WLD
+CZE;WLD
+DEU;WLD
+DJI;WLD
+DNK;WLD
+DOM;WLD
+DZA;WLD
+ECU;WLD
+EGY;WLD
+ERI;WLD
+ETH;WLD
+FJI;WLD
+FNP;WLD
+FRP;WLD
+GAB;WLD
+GEO;WLD
+GHA;WLD
+GIN;WLD
+GMB;WLD
+GNB;WLD
+GNQ;WLD
+GRC;WLD
+GRL;WLD
+GSA;WLD
+GTM;WLD
+HND;WLD
+HRV;WLD
+HTI;WLD
+HUN;WLD
+IDN;WLD
+IND;WLD
+IRL;WLD
+IRN;WLD
+IRQ;WLD
+ISL;WLD
+ISR;WLD
+ITP;WLD
+JAM;WLD
+JOR;WLD
+JPN;WLD
+KAZ;WLD
+KEN;WLD
+KGZ;WLD
+KHM;WLD
+KOR;WLD
+LAO;WLD
+LBN;WLD
+LBR;WLD
+LBY;WLD
+LKA;WLD
+LSO;WLD
+MDA;WLD
+MDG;WLD
+MEX;WLD
+MLI;WLD
+MMR;WLD
+MNG;WLD
+MOR;WLD
+MOZ;WLD
+MRT;WLD
+MWI;WLD
+MYS;WLD
+NAM;WLD
+NER;WLD
+NGA;WLD
+NIC;WLD
+NLD;WLD
+NOR;WLD
+NPL;WLD
+NZL;WLD
+OAO;WLD
+OBN;WLD
+OIO;WLD
+OPO;WLD
+OSA;WLD
+PAK;WLD
+PAN;WLD
+PER;WLD
+PHL;WLD
+PNG;WLD
+POL;WLD
+PRK;WLD
+PRT;WLD
+PRY;WLD
+PSE;WLD
+RAP;WLD
+ROU;WLD
+RUS;WLD
+RWA;WLD
+SAU;WLD
+SDN;WLD
+SEN;WLD
+SLB;WLD
+SLE;WLD
+SLV;WLD
+SOM;WLD
+SPP;WLD
+SVK;WLD
+SVN;WLD
+SWE;WLD
+SWZ;WLD
+SYR;WLD
+TCD;WLD
+TGO;WLD
+THA;WLD
+TJK;WLD
+TKM;WLD
+TLS;WLD
+TUN;WLD
+TUR;WLD
+TZA;WLD
+UGA;WLD
+UKP;WLD
+UKR;WLD
+URY;WLD
+USA;WLD
+UZB;WLD
+VEN;WLD
+VNM;WLD
+VUT;WLD
+YEM;WLD
+ZAF;WLD
+ZMB;WLD
+ZWE;WLD
